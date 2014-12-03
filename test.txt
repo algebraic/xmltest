@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+   <channel>
+      <title>MyApp Changelog</title>
+      <link>http://example.com/MyApp/appcast.xml</link>
+      <description>Latest changes and updates.</description>
+      <language>en</language>
+      <item>
+         <title>Version 1.3.2</title>
+         <pubDate>Wed, 18 Jun 2011 09:20:11 +0000</pubDate>
+         <enclosure url="http://example.com/MyApp-1.3.2.zip" length="1234567" type="application/octet-stream" />
+      </item>
+   </channel>
+</rss>
